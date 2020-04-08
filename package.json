@@ -2,7 +2,7 @@
   "name": "vue-good-features",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "oguzhan.onder <12345678>",
+  "author": "oguzhan.onder",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
